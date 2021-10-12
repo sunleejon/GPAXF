@@ -47,7 +47,7 @@ MarkupSafe==1.1.1
 more-itertools==7.2.0
 mysqlclient==1.4.4
 numpy==1.17.1
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 openpyxl==2.5.14
 ordereddict==1.1
 packaging==19.1
