@@ -46,7 +46,7 @@ Mako==1.1.0
 MarkupSafe==1.1.1
 more-itertools==7.2.0
 mysqlclient==1.4.4
-numpy==1.17.1
+numpy==1.22.0
 opencv-python==4.1.1.26
 openpyxl==2.5.14
 ordereddict==1.1
